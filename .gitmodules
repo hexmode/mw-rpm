@@ -1,0 +1,6 @@
+[submodule "mediawiki-services-parsoid-deploy"]
+	path = mediawiki-services-parsoid-deploy
+	url = git@github.com:hexmode/mediawiki-services-parsoid-deploy.git
+[submodule "nodejs-forever"]
+	path = nodejs-forever
+	url = git@github.com:hexmode/nodejs-forever.git
